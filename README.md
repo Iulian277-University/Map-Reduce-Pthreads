@@ -1,5 +1,4 @@
 # MapReduce Paradigm
-# Tăiatu Iulian-Marius, 332CB
 
 The purpose of this application is to count how many `perfect powers` are present in some given files.
 This program is implemented in C++11 and uses the `Pthreads` library. 
